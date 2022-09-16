@@ -18,9 +18,3 @@ public class ScannerDemo
         String favWord = input.nextLine();
     }
 }
-
-
-
-
-
-
